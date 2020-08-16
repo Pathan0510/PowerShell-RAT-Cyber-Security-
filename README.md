@@ -1,4 +1,3 @@
-# PowerShell-RAT-Cyber-Security-
 
 # Powershell-RAT
 Python based backdoor that uses Gmail to exfiltrate data as an e-mail attachment. 
@@ -70,8 +69,8 @@ pip install pyinstaller
 
 # Questions?
 
-
-LinkedIn: www.linkedin.com/in/tahim-khan-a7822716b
+Twitter: https://twitter.com/maniarviral
+LinkedIn: https://au.linkedin.com/in/viralmaniar
 
 # Contribution & License
 
